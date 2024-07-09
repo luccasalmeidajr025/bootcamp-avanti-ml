@@ -1,6 +1,6 @@
 # bootcamp-avanti-ml
 
-O Bootcamp é um projeto da unidade educacional do Instituto Atlântico, que oferece 7 cursos de formação gratuitos para universitários e profissionais que desejam dar os primeiros passos no mercado de tecnologia.
+O Bootcamp é um projeto da unidade educacional do Instituto Atlântico, que oferece  formação gratuita em Machine Learning para universitários e profissionais que desejam dar os primeiros passos no mercado de tecnologia.
 
 Os assuntos abordados durante essa jornado são:
 
