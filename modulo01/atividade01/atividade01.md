@@ -1,4 +1,5 @@
 1. **Explique, com suas palavras, o que é machine learning?**
+   
 Machine Learning é uma tecnologia que permite computadores aprenderem com os dados sem serem explicitamente programados para isso. Eles analisam informações e identificam padrões para tomar decisões. É como ensinar uma criança a reconhecer frutas. Ao mostrar várias maçãs, bananas e laranja, ela começa a identificar cada fruta apenas olhando.
 
 
